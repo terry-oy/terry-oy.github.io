@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Boyuan Ouyang"
-  pronouns         : "欧阳博远"  
+  pronouns         : # "he/him"
   bio              : "BIM Specialist @ CBIM-CCTC; MSc Graduate from Technion"
   location         : "Beijing, China"
   employer         : "CBIM-CCTC"
