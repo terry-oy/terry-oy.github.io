@@ -23,8 +23,8 @@ repository               : "terry-oy/terry-oy.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Boyuan Ouyang (欧阳博远)"
-  pronouns         : # example: "she/her"  
+  name             : "Boyuan Ouyang"
+  pronouns         : "欧阳博远"  
   bio              : "BIM Specialist @ CBIM-CCTC; MSc Graduate from Technion"
   location         : "Beijing, China"
   employer         : "CBIM-CCTC"
