@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Boyuan Ouyang's Homepage’"
+title                    : "Boyuan Ouyang's Homepage"
 title_separator          : "-"
 name                     : &name "Boyuan Ouyang"
-description              : &description "BIM Specialist @ CBIM-CCTC; MSc Graduate from Technion - Israel Institute of Technology"
+description              : &description "BIM Specialist @ CBIM-CCTC; MSc Graduate from Technion"
 url                      : https://terry-oy.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "terry-oy/terry-oy.github.io"
@@ -23,9 +23,9 @@ repository               : "terry-oy/terry-oy.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Boyuan Ouyang"
+  name             : "Boyuan Ouyang (欧阳博远)"
   pronouns         : # example: "she/her"  
-  bio              : "BIM Specialist @ CBIM-CCTC; MSc Graduate from Technion - Israel Institute of Technology"
+  bio              : "BIM Specialist @ CBIM-CCTC; MSc Graduate from Technion"
   location         : "Beijing, China"
   employer         : "CBIM-CCTC"
   uri              : # URL
