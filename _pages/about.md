@@ -30,22 +30,6 @@ Publications
 
 
 
- 
-Key Responsibilities
-
-buildingSMART Initiatives:
-Localizing the Industry Foundation Classes (IFC) data schema to align with regional practices and comply with Chinese regulations.
-Developing bSDD-China, a dedicated chapter of the buildingSMART Data Dictionary tailored for the Chinese market.
-
-
-BIM Standards Development: Contributing to the creation of national and industry-level BIM data standards to enhance interoperability and efficiency.
-AI-Driven Research: Leading enterprise and group research projects to incorporate state-of-the-art digital and AI technologies into AEC project delivery workflows.
-
-
-
-
-
-
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
