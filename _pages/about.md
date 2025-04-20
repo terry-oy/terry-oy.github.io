@@ -15,6 +15,14 @@ I am a BIM specialist and a data engineer currently working at CBIM - China Cons
 
 Before attending work, I obtained my Master's degree from the [Technion](https://www.technion.ac.il/en/) under the supervision of [Prof. Rafael Sacks](https://www.linkedin.com/in/rafaelsacks/), and my Bachelor's degree from the department of [Civil Egnineering, Technion](https://cee.technion.ac.il/en/).
 
+
+Publications
+-
+
+Publications
+=
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
