@@ -9,9 +9,11 @@ redirect_from:
 
 I am a BIM specialist and data engineer at CBIM, part of China Construction Technology Consulting Co., Ltd. My work centers on advancing Building Information Modeling (BIM) standards and digital project delivery in the Architecture, Engineering, and Construction (AEC) industry. My current responsibilies are:
 
-- **buildingSMART initiatives:** This mainly involves 1. localizing the Industry Foundation Classes to align with regional practices and comply with Chinese regulations, and 2. developing bSDD-China, a dedicated chapter of the buildingSMART Data Dictionary tailored for the Chinese market.
-- **BIM standards:** Contributing to the creation of national and industry-level BIM data standards to enhance interoperability and elevate level of automation.
-- **Research projects:** leading research projects that tries to incorporate state-of-the-art digital and AI technologies into current AEC project delivery workflows.
+* **buildingSMART initiatives:** This mainly involves
+  * localizing the Industry Foundation Classes to align with regional practices and comply with Chinese regulations, and
+  * developing bSDD-China, a dedicated chapter of the buildingSMART Data Dictionary tailored for the Chinese market.
+* **BIM standards:** Contributing to the creation of national and industry-level BIM data standards to enhance interoperability and elevate level of automation.
+* **Research projects:** leading research projects that tries to incorporate state-of-the-art digital and AI technologies into current AEC project delivery workflows.
 
 
 Education
