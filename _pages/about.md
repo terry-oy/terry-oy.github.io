@@ -13,7 +13,7 @@ I am a BIM specialist and a data engineer currently working at CBIM - China Cons
 - developing national and industry-level BIM data standards. 
 - leading enterprise and group research projects focusing on incorporating state-of-the-art AI technologies into current digital delivery workflows in AEC projects.
 
-Before attending work, I obtained my Master's degree from the [Technion](https://www.technion.ac.il/en/) under the supervision of [Prof. Rafael Sacks](https://www.linkedin.com/in/rafaelsacks/), and my Bachelor's degree from the department of [Civil Egnineering](https://cee.technion.ac.il/en/), Technion.
+Before attending work, I obtained my Master's degree from the [Technion](https://www.technion.ac.il/en/) under the supervision of [Prof. Rafael Sacks](https://www.linkedin.com/in/rafaelsacks/), and my Bachelor's degree from the department of [Civil Egnineering, Technion](https://cee.technion.ac.il/en/).
 
 A data-driven personal website
 ======
