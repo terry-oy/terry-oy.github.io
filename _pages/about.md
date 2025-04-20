@@ -7,20 +7,43 @@ redirect_from:
   - /about.html
 ---
 
-I am a BIM specialist and a data engineer currently working at CBIM - China Construction Technology Consulting Co.,Ltd. My current work focuses on developing BIM-related-standard at national level and industry level. Digital project delivery in the AEC industry. I am also involved in research projects that focuses on the integration of AI technologies into digital project delivery 
+I am a BIM specialist and data engineer at CBIM, part of China Construction Technology Consulting Co., Ltd. My work centers on advancing Building Information Modeling (BIM) standards and digital project delivery in the Architecture, Engineering, and Construction (AEC) industry. My current responsibilies are:
 
-- buildingSMART. This mainly involves 1) localization of the IFC data schema to adapt to regional practices and ensure compliance with local regulations, and 2) development of bSDD-China, a Chinese chapter of the buildingSMART data dictionary with content catered for the Chinese market.
-- developing national and industry-level BIM data standards. 
-- leading enterprise and group research projects focusing on incorporating state-of-the-art AI technologies into current digital delivery workflows in AEC projects.
+- **buildingSMART initiatives:** This mainly involves 1) localizing the Industry Foundation Classes (IFC) schema to align with regional practices and comply with Chinese regulations, and 2) developing bSDD-China, a dedicated chapter of the buildingSMART Data Dictionary tailored for the Chinese market.
+- **BIM standards:** Contributing to the creation of national and industry-level BIM data standards to enhance interoperability and elevate level of automation.
+- **Research projects:** leading research projects that tries to incorporate state-of-the-art digital and AI technologies into current AEC project delivery workflows.
 
-Before attending work, I obtained my Master's degree from the [Technion](https://www.technion.ac.il/en/) under the supervision of [Prof. Rafael Sacks](https://www.linkedin.com/in/rafaelsacks/), and my Bachelor's degree from the department of [Civil Egnineering, Technion](https://cee.technion.ac.il/en/).
+
+Education
+------
+I hold a Master's degree from the [Technion – Israel Institute of Technology](https://www.technion.ac.il/en/), where I conducted my research under the supervision of [Prof. Rafael Sacks](https://www.linkedin.com/in/rafaelsacks/). 
+
+I earned my Bachelor's degree (Summa Cum Laude) from the [Department of Civil Engineering](https://cee.technion.ac.il/en/) at Technion.
 
 
 Publications
--
+------
+- Journal articles
+- Conference papers
+- Patents
+(TBD)
 
-Publications
-=
+
+
+ 
+Key Responsibilities
+
+buildingSMART Initiatives:
+Localizing the Industry Foundation Classes (IFC) data schema to align with regional practices and comply with Chinese regulations.
+Developing bSDD-China, a dedicated chapter of the buildingSMART Data Dictionary tailored for the Chinese market.
+
+
+BIM Standards Development: Contributing to the creation of national and industry-level BIM data standards to enhance interoperability and efficiency.
+AI-Driven Research: Leading enterprise and group research projects to incorporate state-of-the-art digital and AI technologies into AEC project delivery workflows.
+
+
+
+
 
 
 A data-driven personal website
